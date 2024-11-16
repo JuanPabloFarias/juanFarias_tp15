@@ -1,5 +1,6 @@
 movies = [
-{
+{   
+    title: "Titulo de Ejemplo 1",
     id: 2323,
     rating: 9,
     awards: ["Premio 1", "Premio 2", "Premio 3"],
@@ -8,6 +9,7 @@ movies = [
     genre: "Suspenso"
 },
 {
+    titulo: "Titulo de Ejemplo 2",
     id: 1414,
     rating: 7,
     awards: ["Premio a", "Premio b"],
@@ -16,6 +18,7 @@ movies = [
     genre: "Acción"
 },
 {
+    title: "Titulo de Ejemplo 3",
     id: 3333,
     rating: 8,
     awards: ["Premio 1"],
